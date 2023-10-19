@@ -28,7 +28,7 @@ int main()
     return 0;
 }
 
-//_________________________________________
+//_________________________________________//
 void loadImage () {
     char imageFileName[100];
 
@@ -41,7 +41,7 @@ void loadImage () {
     readRGBBMP(imageFileName, img);
 }
 
-//_________________________________________
+//_________________________________________//
 void saveImage () {
     char imageFileName[100];
 
